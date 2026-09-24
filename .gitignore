@@ -1,0 +1,11 @@
+# Carpetas de compilación
+build/
+dist/
+
+# Archivos temporales y caché
+__pycache__/
+*.pyc
+temp/
+
+# Archivos de salida del programa
+*.pdf
